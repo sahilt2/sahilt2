@@ -1,6 +1,6 @@
 ### Sahil Thapa
 
-<div id="header" align="center" backgroundColor="black">
+<div id="header" align="center" background-color="black">
   <img src="https://media.giphy.com/media/Uaxj062PavgqZRhVkS/giphy.gif" width="100"/>
 </div>
 I am currently a full stack web development student at [Helsinki Business College](https://www.bc.fi/). I am eager to learn new things and apply it in my professional field.
