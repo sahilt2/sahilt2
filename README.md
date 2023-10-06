@@ -1,6 +1,6 @@
 ### Sahil Thapa
 
-<div style="width:100%;height:0;padding-bottom:73%;position:relative;"><iframe src="https://giphy.com/embed/QTfX9Ejfra3ZmNxh6B" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/tech-code-coding-QTfX9Ejfra3ZmNxh6B">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:73%;position:relative;"><img src="https://giphy.com/embed/QTfX9Ejfra3ZmNxh6B" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></img></div><p><a href="https://giphy.com/stickers/tech-code-coding-QTfX9Ejfra3ZmNxh6B">via GIPHY</a></p>
 
 I am currently a full stack web development student at [Helsinki Business College](https://www.bc.fi/). I am eager to learn new things and apply it in my professional field.
 
