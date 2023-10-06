@@ -2,6 +2,8 @@
 
 #### About me
 I am currently a full stack web development student at [Helsinki Business College](https://www.bc.fi/). I am eager to learn new things and apply it in my professional field.
+
+![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahilt2&show_icons=true&theme=radical)
 <!--
 **sahilt2/sahilt2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
