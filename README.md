@@ -1,6 +1,6 @@
 ### Sahil Thapa
 
-<div width="100%">
+<div id= "header" width="100%">
   <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif"/>
 </div>
 
