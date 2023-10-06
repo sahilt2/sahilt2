@@ -1,7 +1,7 @@
 ### Sahil Thapa
 
 <div id= "header">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="100%"/>
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" height="50%"/>
 </div>
 
 I am currently a full stack web development student at [Helsinki Business College](https://www.bc.fi/). I am eager to learn new things and apply it in my professional field.
