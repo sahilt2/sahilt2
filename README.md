@@ -5,6 +5,8 @@ I am currently a full stack web development student at [Helsinki Business Colleg
 
 [![Sahil's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=sahilt2&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/sahilt2/github-readme-stats#gh-dark-mode-only)
 [![Sahil's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=sahilt2&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/sahilt2/github-readme-stats#gh-light-mode-only)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 <!--
 **sahilt2/sahilt2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
