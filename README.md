@@ -7,7 +7,10 @@ I am currently a full stack web development student at [Helsinki Business Colleg
 
 [![Sahil's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=sahilt2&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/sahilt2/github-readme-stats#gh-dark-mode-only)
 [![Sahil's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=sahilt2&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/sahilt2/github-readme-stats#gh-light-mode-only)
-<img src="https://komarev.com/ghpvc/?username=sahilt2&style=flat-square&color=blue" alt="profile view"/>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sahilt2&style=flat-square&color=blue" alt="profile view"/>
+</div>
+
 
 
 Connect with me 
