@@ -1,5 +1,7 @@
-### Hi there 👋
+### Sahil Thapa
 
+#### About me
+I am currently a full stack web development student at [Helsinki Business College](https://www.bc.fi/). I am eager to learn new things and apply it in my professional field.
 <!--
 **sahilt2/sahilt2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
