@@ -1,7 +1,7 @@
 ### Sahil Thapa
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="100"/>
+  <iframe src="https://giphy.com/embed/QTfX9Ejfra3ZmNxh6B" width="480" height="348" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/tech-code-coding-QTfX9Ejfra3ZmNxh6B">via GIPHY</a></p>
 </div>
 I am currently a full stack web development student at [Helsinki Business College](https://www.bc.fi/). I am eager to learn new things and apply it in my professional field.
 
