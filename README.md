@@ -11,6 +11,11 @@ I am currently a full stack web development student at [Helsinki Business Colleg
   <img src="https://komarev.com/ghpvc/?username=sahilt2&style=flat-square&color=blue" alt="profile view"/>
 </div>
 
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="html" alt="html" width="40" height="40"/>&nbsp;
+</div>
+
 
 
 Connect with me 
