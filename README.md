@@ -1,4 +1,3 @@
-### Sahil Thapa
 
 <div id= "header">
   <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" height="200px"/>
@@ -8,6 +7,13 @@ I am currently a full stack web development student at [Helsinki Business Colleg
 
 [![Sahil's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=sahilt2&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/sahilt2/github-readme-stats#gh-dark-mode-only)
 [![Sahil's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=sahilt2&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/sahilt2/github-readme-stats#gh-light-mode-only)
+
+
+Connect with me 
+<div id="badges">
+  <a href="https://fi.linkedin.com/in/sahil-thapa">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</div>
 
 <!--
 **sahilt2/sahilt2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
